@@ -1,5 +1,7 @@
 # API Tests
 
+[![tests](https://github.com/younislayan/api-tests/actions/workflows/tests.yml/badge.svg)](https://github.com/younislayan/api-tests/actions/workflows/tests.yml)
+
 Automated tests for a REST API, written in Python with pytest and requests.
 
 The tests run against [JSONPlaceholder](https://jsonplaceholder.typicode.com), a free fake API made for practising.
